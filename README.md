@@ -1,4 +1,4 @@
-c5 project manager 
+c5 project manager 0.9 ( development phase )
 ===============
 
 Concrete5 addon to manage pages statuses
