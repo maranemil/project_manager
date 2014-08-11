@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	
+	<table name="btProjectManagerPgStatus">
+		<field name="bID " type="I">
+			<key />
+			<unsigned/>
+			<autoincrement/>
+		</field>
+		<field name="pID" type="I"> <!-- Page ID -->
+		</field>
+		<field name="aID" type="I"> <!-- Attribute ID -->
+		</field>		
+		<field name="cDate" type="D"> <!-- Date  -->
+		</field>
+		<field name="uID" type="I"> <!-- User ID  -->
+		</field>
+		<field name="sID" type="I"> <!-- Status ID  -->
+		</field>
+	</table>
+
+	<table name="btProjectManagerPgAttributes">
+		<field name="bID " type="I">
+			<key />
+			<unsigned/>
+			<autoincrement/>
+		</field>
+		<field name="cText" type="C" size="255"> <!-- attribute name -->
+		</field>
+	</table>
+	
+</schema>

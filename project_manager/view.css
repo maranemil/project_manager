@@ -1,0 +1,42 @@
+.pm_button { cursor: pointer }
+.percent_span { font-weight: bold }
+.clearer { clear: both }
+
+/*div.ccm-attribute-sortable-set-list img.ccm-attribute-icon:hover {cursor: move}*/
+
+#template_form_delete { margin-top: -10px; padding-top: 0px  }
+#template_form {  margin-bottom: 0px; padding-bottom: 0px }
+
+.ui-state-active { background-color: blue !important; color: white !important; }
+.ui-state-important { background-color: red !important; color: white !important; }
+
+.ui-state-hover { background-image: none; background-color:red; padding:50px; margin:50px;}
+
+/*
+// Set text color
+// -------------------------
+.btn-primary,
+.btn-primary:hover,
+.btn-warning,
+.btn-warning:hover,
+.btn-danger,
+.btn-danger:hover,
+.btn-success,
+.btn-success:hover,
+.btn-info,
+.btn-info:hover,
+.btn-inverse,
+.btn-inverse:hover {
+color: @white;
+text-shadow: 0 -1px 0 rgba(0,0,0,.25);
+}
+// Provide *some* extra contrast for those who can get it
+.btn-primary.active,
+.btn-warning.active,
+.btn-danger.active,
+.btn-success.active,
+.btn-info.active,
+.btn-inverse.active {
+color: rgba(255,255,255,.75);
+}
+*/
