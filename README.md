@@ -1,7 +1,11 @@
 c5 project manager 0.9 ( development phase )
 ===============
 
-Concrete5 addon to manage pages statuses
+## Concrete5 addon to manage pages statuses
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=22suBjF2XV8" target="_blank"><img src="http://img.youtube.com/vi/22suBjF2XV8/0.jpg" 
+alt="project manager" width="240" height="180" border="10" /></a>
+
 
 ### Info
 * ** Author: Emil Maran
