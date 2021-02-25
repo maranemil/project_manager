@@ -1,2 +1,7 @@
-.pm_button { cursor: pointer }
-.percent_span { font-weight: bold }
+.pm_button {
+    cursor: pointer
+}
+
+.percent_span {
+    font-weight: bold
+}

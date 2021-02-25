@@ -1,16 +1,43 @@
-.pm_button { cursor: pointer }
-.percent_span { font-weight: bold }
-.clearer { clear: both }
+.pm_button {
+    cursor: pointer
+}
+
+.percent_span {
+    font-weight: bold
+}
+
+.clearer {
+    clear: both
+}
 
 /*div.ccm-attribute-sortable-set-list img.ccm-attribute-icon:hover {cursor: move}*/
 
-#template_form_delete { margin-top: -10px; padding-top: 0px  }
-#template_form {  margin-bottom: 0px; padding-bottom: 0px }
+#template_form_delete {
+    margin-top: -10px;
+    padding-top: 0
+}
 
-.ui-state-active { background-color: blue !important; color: white !important; }
-.ui-state-important { background-color: red !important; color: white !important; }
+#template_form {
+    margin-bottom: 0;
+    padding-bottom: 0
+}
 
-.ui-state-hover { background-image: none; background-color:red; padding:50px; margin:50px;}
+.ui-state-active {
+    background-color: blue !important;
+    color: white !important;
+}
+
+.ui-state-important {
+    background-color: red !important;
+    color: white !important;
+}
+
+.ui-state-hover {
+    background-image: none;
+    background-color: red;
+    padding: 50px;
+    margin: 50px;
+}
 
 /*
 // Set text color
