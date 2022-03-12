@@ -10,15 +10,15 @@
 ?>
 
 <div style="float: left; ">
-    <a href="<?php  echo $this->url("/dashboard/project_manager/view")?>"
-        class="btn primary">Overview Pages</a>
+    <a href="<?php echo $this->url("/dashboard/project_manager/view") ?>"
+       class="btn primary">Overview Pages</a>
 </div>
 <div style="float: left; margin-left: 5px">
-    <a href="<?php  echo $this->url("/dashboard/project_manager/attributes")?>"
-        class="btn primary">Page attributes</a>
+    <a href="<?php echo $this->url("/dashboard/project_manager/attributes") ?>"
+       class="btn primary">Page attributes</a>
 </div>
 <div style="float: left; margin-left: 5px">
-    <a href="<?php  echo $this->url("/dashboard/project_manager/about")?>"
+    <a href="<?php echo $this->url("/dashboard/project_manager/about") ?>"
        class="btn warning">About</a>
 </div>
 

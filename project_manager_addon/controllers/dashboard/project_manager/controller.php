@@ -1,10 +1,15 @@
-<?php defined('C5_EXECUTE') or die("Access Denied.");
+<?php /** @noinspection PhpUndefinedClassInspection */
+/** @noinspection AutoloadingIssuesInspection */
+/** @noinspection PhpUnused */
+defined('C5_EXECUTE') or die("Access Denied.");
 
 /**
  * Created by PhpStorm.
  * User: Emil Maran ( maran.emil[at]gmail[dot].com)
  * Date: 06.08.14
  * Time: 21:33
+ * @property $error
+ * @method  set(string $string, $bID)
  */
 class DashboardProjectManagerController extends Controller {
 
